@@ -3,15 +3,15 @@ cd $HOME/XB
 install() {
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
-chmod +x XB
+chmod +x SOURCEXB
 chmod +x install.sh
 chmod +x ts
 ./ts
 }
 get() {
-rm -fr XB.lua
+rm -fr SOURCEXB.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/XBAb/XB/master/XB.lua"
+wget "https://raw.githubusercontent.com/SOURCEXB/SOURCEXB/master/SOURCEXB.lua"
 lua start.lua
 }
 installall(){
