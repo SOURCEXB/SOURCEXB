@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```https://github.com/SOURCEXBAb/SOURCEXB && cd SOURCEXB && chmod +x install.sh && ./install.sh```
+```https://github.com/SOURCEXB/SOURCEXB && cd SOURCEXB && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
